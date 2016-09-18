@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: 09feb02bf22342a4dbd53a3a6a237dd1
+timeCreated: 1452857498
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: body
+    100004: hand_l
+    100006: hand_r
+    100008: head_central
+    100010: head_top
+    100012: index_r1
+    100014: index_r1 1
+    100016: index_r2
+    100018: index_r2 1
+    100020: index_r3
+    100022: index_r3 1
+    100024: index_r4
+    100026: index_r4 1
+    100028: leg_l
+    100030: leg_r
+    100032: middle_l1
+    100034: middle_l2
+    100036: middle_l3
+    100038: middle_l4
+    100040: middle_r1
+    100042: middle_r2
+    100044: middle_r3
+    100046: middle_r4
+    100048: pinky_l1
+    100050: pinky_l2
+    100052: pinky_l3
+    100054: pinky_l4
+    100056: pinky_r1
+    100058: pinky_r2
+    100060: pinky_r3
+    100062: pinky_r4
+    100064: thumb_l1
+    100066: thumb_l2
+    100068: thumb_l3
+    100070: thumb_l4
+    100072: thumb_r1
+    100074: thumb_r2
+    100076: thumb_r3
+    100078: thumb_r4
+    400000: //RootNode
+    400002: body
+    400004: hand_l
+    400006: hand_r
+    400008: head_central
+    400010: head_top
+    400012: index_r1
+    400014: index_r1 1
+    400016: index_r2
+    400018: index_r2 1
+    400020: index_r3
+    400022: index_r3 1
+    400024: index_r4
+    400026: index_r4 1
+    400028: leg_l
+    400030: leg_r
+    400032: middle_l1
+    400034: middle_l2
+    400036: middle_l3
+    400038: middle_l4
+    400040: middle_r1
+    400042: middle_r2
+    400044: middle_r3
+    400046: middle_r4
+    400048: pinky_l1
+    400050: pinky_l2
+    400052: pinky_l3
+    400054: pinky_l4
+    400056: pinky_r1
+    400058: pinky_r2
+    400060: pinky_r3
+    400062: pinky_r4
+    400064: thumb_l1
+    400066: thumb_l2
+    400068: thumb_l3
+    400070: thumb_l4
+    400072: thumb_r1
+    400074: thumb_r2
+    400076: thumb_r3
+    400078: thumb_r4
+    7400000: idleAnim
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idleAnim
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: body
+        weight: 1
+      - path: body/head_central
+        weight: 1
+      - path: body/head_central/head_top
+        weight: 1
+      - path: body/leg_l
+        weight: 1
+      - path: body/leg_r
+        weight: 1
+      - path: hand_l
+        weight: 1
+      - path: hand_l/index_r1
+        weight: 1
+      - path: hand_l/index_r1/index_r2
+        weight: 1
+      - path: hand_l/index_r1/index_r2/index_r3
+        weight: 1
+      - path: hand_l/index_r1/index_r2/index_r3/index_r4
+        weight: 1
+      - path: hand_l/middle_l1
+        weight: 1
+      - path: hand_l/middle_l1/middle_l2
+        weight: 1
+      - path: hand_l/middle_l1/middle_l2/middle_l3
+        weight: 1
+      - path: hand_l/middle_l1/middle_l2/middle_l3/middle_l4
+        weight: 1
+      - path: hand_l/pinky_l1
+        weight: 1
+      - path: hand_l/pinky_l1/pinky_l2
+        weight: 1
+      - path: hand_l/pinky_l1/pinky_l2/pinky_l3
+        weight: 1
+      - path: hand_l/pinky_l1/pinky_l2/pinky_l3/pinky_l4
+        weight: 1
+      - path: hand_l/thumb_l1
+        weight: 1
+      - path: hand_l/thumb_l1/thumb_l2
+        weight: 1
+      - path: hand_l/thumb_l1/thumb_l2/thumb_l3
+        weight: 1
+      - path: hand_l/thumb_l1/thumb_l2/thumb_l3/thumb_l4
+        weight: 1
+      - path: hand_r
+        weight: 1
+      - path: hand_r/index_r1 1
+        weight: 1
+      - path: hand_r/index_r1 1/index_r2 1
+        weight: 1
+      - path: hand_r/index_r1 1/index_r2 1/index_r3 1
+        weight: 1
+      - path: hand_r/index_r1 1/index_r2 1/index_r3 1/index_r4 1
+        weight: 1
+      - path: hand_r/middle_r1
+        weight: 1
+      - path: hand_r/middle_r1/middle_r2
+        weight: 1
+      - path: hand_r/middle_r1/middle_r2/middle_r3
+        weight: 1
+      - path: hand_r/middle_r1/middle_r2/middle_r3/middle_r4
+        weight: 1
+      - path: hand_r/pinky_r1
+        weight: 1
+      - path: hand_r/pinky_r1/pinky_r2
+        weight: 1
+      - path: hand_r/pinky_r1/pinky_r2/pinky_r3
+        weight: 1
+      - path: hand_r/pinky_r1/pinky_r2/pinky_r3/pinky_r4
+        weight: 1
+      - path: hand_r/thumb_r1
+        weight: 1
+      - path: hand_r/thumb_r1/thumb_r2
+        weight: 1
+      - path: hand_r/thumb_r1/thumb_r2/thumb_r3
+        weight: 1
+      - path: hand_r/thumb_r1/thumb_r2/thumb_r3/thumb_r4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

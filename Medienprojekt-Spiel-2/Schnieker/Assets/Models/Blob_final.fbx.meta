@@ -1,0 +1,174 @@
+fileFormatVersion: 2
+guid: a8550680934e4ae468a496c779aa5cc4
+timeCreated: 1452857670
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Blob_Handv3:pSphere7
+    100004: body
+    100006: hand_l
+    100008: hand_r
+    100010: head_central
+    100012: head_top
+    100014: index_r1
+    100016: index_r1 1
+    100018: index_r2
+    100020: index_r2 1
+    100022: index_r3
+    100024: index_r3 1
+    100026: index_r4
+    100028: index_r4 1
+    100030: leg_l
+    100032: leg_r
+    100034: middle_l1
+    100036: middle_l2
+    100038: middle_l3
+    100040: middle_l4
+    100042: middle_r1
+    100044: middle_r2
+    100046: middle_r3
+    100048: middle_r4
+    100050: pinky_l1
+    100052: pinky_l2
+    100054: pinky_l3
+    100056: pinky_l4
+    100058: pinky_r1
+    100060: pinky_r2
+    100062: pinky_r3
+    100064: pinky_r4
+    100066: polySurface1
+    100068: polySurface3
+    100070: polySurface4
+    100072: pSphere12
+    100074: pSphere13
+    100076: thumb_l1
+    100078: thumb_l2
+    100080: thumb_l3
+    100082: thumb_l4
+    100084: thumb_r1
+    100086: thumb_r2
+    100088: thumb_r3
+    100090: thumb_r4
+    400000: //RootNode
+    400002: Blob_Handv3:pSphere7
+    400004: body
+    400006: hand_l
+    400008: hand_r
+    400010: head_central
+    400012: head_top
+    400014: index_r1
+    400016: index_r1 1
+    400018: index_r2
+    400020: index_r2 1
+    400022: index_r3
+    400024: index_r3 1
+    400026: index_r4
+    400028: index_r4 1
+    400030: leg_l
+    400032: leg_r
+    400034: middle_l1
+    400036: middle_l2
+    400038: middle_l3
+    400040: middle_l4
+    400042: middle_r1
+    400044: middle_r2
+    400046: middle_r3
+    400048: middle_r4
+    400050: pinky_l1
+    400052: pinky_l2
+    400054: pinky_l3
+    400056: pinky_l4
+    400058: pinky_r1
+    400060: pinky_r2
+    400062: pinky_r3
+    400064: pinky_r4
+    400066: polySurface1
+    400068: polySurface3
+    400070: polySurface4
+    400072: pSphere12
+    400074: pSphere13
+    400076: thumb_l1
+    400078: thumb_l2
+    400080: thumb_l3
+    400082: thumb_l4
+    400084: thumb_r1
+    400086: thumb_r2
+    400088: thumb_r3
+    400090: thumb_r4
+    4300000: polySurface1
+    4300002: polySurface3
+    4300004: polySurface4
+    4300006: Blob_Handv3:pSphere7
+    4300008: pSphere13
+    9500000: //RootNode
+    13700000: Blob_Handv3:pSphere7
+    13700002: polySurface1
+    13700004: polySurface3
+    13700006: polySurface4
+    13700008: pSphere13
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
