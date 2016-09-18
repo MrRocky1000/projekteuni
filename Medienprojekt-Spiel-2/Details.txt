@@ -1,4 +1,6 @@
 Dieses Spiel wurde im Rahmen des Kurses Medienprojekt 2 entwickelt.
 Das Team bestand aus 6 Personen.
 
+Erstellt wurde das Projekt in Unity 5 mit C# und Maya.
+
 Meine Aufgabe war die programmiertechnische Logik des Spieles und die Benutzeroberfläche.
