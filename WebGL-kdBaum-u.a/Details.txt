@@ -1,0 +1,10 @@
+Dies endstand im Rahmen des Kurses Computergrafik 2.
+
+Gelöst wurden die Aufgaben in einem Team aus 3 Leuten.
+
+Das Projekt ist zum größten Teil in JavaScript mit Modulverwaltung(require.js) geschrieben und hat eine HTML-Anbindung. 
+Außerdem wurde im letzten Meilenstein Shaderprogrammierung mit glsl verwendet.
+
+Der erste Meilenstein bestand aus dem ersten Arbeiten mit dem Canvas , dem kd-Baum und verschiedenen Kurven.
+Der zweite Meilenstein bestand aus parametrischen Flächen, Meshes und dem Bauen eines Roboters.
+Der letzte Meilenstein bestand aus Shaderprogrammierung(Texturierung, Beleuchtung, Explosion)
