@@ -3,3 +3,5 @@ Dieses Projekt wurde im Rahmen von Multimedia-Engineering 2 bearbeitet
 Thema: REST-API, Erstellen einer SPA mithilfe von node.js + mongodb + mongoose
 
 Unterteilt sind die Ordner je nach jeweiliger Übung. Diese wurde jedesmal etwas komplexer, bis hin zur fertigen SPA.
+
+(Hochgeladen als .zip, aufgrund der vielen verschiedenen Datein)
