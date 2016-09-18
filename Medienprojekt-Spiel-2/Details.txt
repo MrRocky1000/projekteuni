@@ -1,0 +1,4 @@
+Dieses Spiel wurde im Rahmen des Kurses Medienprojekt 2 entwickelt.
+Das Team bestand aus 6 Personen.
+
+Meine Aufgabe war die programmiertechnische Logik des Spieles und die Benutzeroberfläche.
