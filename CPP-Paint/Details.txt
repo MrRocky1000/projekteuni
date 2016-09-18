@@ -1,0 +1,4 @@
+Dieses Projekt wurde im Rahmen des Kurses "Effiziente Software entwickeln mit C++" entwickelt
+
+Es ist ein kleines Paint-Programm. Die Oberfläche wurde mithilfe von Qt erstellt.
+
